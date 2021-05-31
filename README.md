@@ -17,16 +17,16 @@ Problem Statements:
 
 4. Take a normal noise free image and compute the:
 
-              1. KL Divergence of this noise free image with another noisy image obtained after adding
-                 noise to this normal image. (You can add dierent types of noise like salt and pepper,
-                 Gaussian etc.)
+   1. KL Divergence of this noise free image with another noisy image obtained after adding
+      noise to this normal image. (You can add dierent types of noise like salt and pepper,
+      Gaussian etc.)
                  
-              2. Plot a graph of how the KL Divergence Changes as the image gets more and more noisy.
+   2. Plot a graph of how the KL Divergence Changes as the image gets more and more noisy.
               
-              3. Also compute the entropy of this normal Image.
+   3. Also compute the entropy of this normal Image.
               
-              4. Also compute entropy of noisy images and plot how entropy changes as more and more
-                 noise is added to the image.
+   4. Also compute entropy of noisy images and plot how entropy changes as more and more
+      noise is added to the image.
 
 
 5. Compute the Dirichlet Distribution of the given data and plot the computed Distri-
